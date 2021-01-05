@@ -1,0 +1,7 @@
+Cor de destaque: #00fff1;
+Cor Secundaria: #223047;
+
+
+background:
+Azul: #223047
+Cinza: #f5f6fa
